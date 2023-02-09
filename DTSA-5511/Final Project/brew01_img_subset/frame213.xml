@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brew01_img_subset</folder>
+	<filename>frame213.jpg</filename>
+	<path>C:\Users\Z0145963\Documents\Projekte\Python\CNN_Test\brew01_img_subset\frame213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>display</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>87</ymin>
+			<xmax>303</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
